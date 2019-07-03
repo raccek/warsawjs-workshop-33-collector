@@ -1,0 +1,73 @@
+{
+  "debts": [
+    {
+      "id": 1,
+      "title": "Pizza 20.12.2018",
+      "who": "John",
+      "amount": 20.33
+    },
+    {
+      "id": 2,
+      "title": "Shopping at Dinos",
+      "who": "Adam",
+      "amount": 5.99
+    },
+    {
+      "id": 3,
+      "title": "Food (ramen) with Emily and Ian",
+      "who": "Ian",
+      "amount": 10.5
+    },
+    {
+      "title": "New games",
+      "who": "Robert",
+      "amount": 13.99,
+      "id": 4
+    },
+    {
+      "valid": true,
+      "title": "pizza",
+      "who": "robert",
+      "amount": "12",
+      "id": 5
+    },
+    {
+      "valid": true,
+      "title": "film",
+      "who": "Artur",
+      "amount": "25",
+      "id": 6
+    },
+    {
+      "valid": true,
+      "title": "film 2 ",
+      "who": "andrzej",
+      "amount": "44",
+      "id": 7
+    },
+    {
+      "valid": true,
+      "title": "samochód",
+      "who": "Monika",
+      "amount": "5500",
+      "id": 8
+    },
+    {
+      "valid": true,
+      "title": "test",
+      "who": "test",
+      "amount": "555",
+      "id": 9
+    },
+    {
+      "valid": true,
+      "title": "test",
+      "who": "test",
+      "amount": "550",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "Antonio"
+  }
+}
